@@ -1,0 +1,26 @@
+{
+  "name": "dride",
+  "version": "0.1.1",
+  "description": "A tiny CLI tool for dride",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drideio/dride-cli.git"
+  },
+  "keywords": [
+    "dride"
+  ],
+  "author": "Yossi Neiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drideio/dride-cli/issues"
+  },
+  "homepage": "https://github.com/drideio/dride-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "express": "^4.14.0"
+  }
+}
