@@ -1,8 +1,10 @@
 {
   "name": "dride",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "description": "A tiny CLI tool for dride",
-  "main": "index.js",
+  "bin": {
+    "dride": "./dride.js"
+  },
   "scripts": {
     "test": "test"
   },
